@@ -1,0 +1,11 @@
+# 作業文件與備份檔案（不推送到 GitHub）
+index_第二版原始備份.html
+第二版程式碼改動說明.md
+加分挑戰說明.md
+網頁音訊實作-作業說明(1).docx
+
+# 系統與編輯器暫存檔
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log
